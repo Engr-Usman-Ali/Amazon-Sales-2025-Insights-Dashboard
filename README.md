@@ -28,9 +28,7 @@ Orders were organized into:
 - Canceled Orders  
 
 ## 📊 Dashboard Preview
-<img src="Dashboard UI.jpg" alt="Amazon Sales Insights Dashboard" width="900"/>
-
-*(Make sure your dashboard image file is named `dashboard.png` and placed in the project root.)*
+<img src="Dashboard UI.jpg" alt="Amazon Sales Insights Dashboard"/>
 
 
 
